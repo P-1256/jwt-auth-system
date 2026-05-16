@@ -38,6 +38,7 @@ This project provides a complete user authentication workflow including:
 
 ## Project Structure
 
+```bash
 jwt-auth-system-main/
 │
 ├── config/
